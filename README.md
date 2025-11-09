@@ -1,8 +1,19 @@
 # Italia Indexer (italian-cities-elasticserach)
 
-Italia Indexer is a versatile tool that allows users to search for cities based on their "Denominazione in italiano". The application comes in two flavors: a Spring Boot web service and a CLI (Command-Line Interface) version.
+Italia Indexer is a versatile tool that allows users to search for cities based on their "Denominazione in italiano". 
+
+The application comes in two flavors: a Spring Boot web service and a CLI (Command-Line Interface) version.
 
 It was specifically designed to demonstrate how to integrate Elasticsearch, from loading JSON data to conducting searches.
+
+[![Java](https://img.shields.io/badge/Java-8%2B-orange?logo=openjdk)](https://openjdk.java.net/)
+[![Spring Boot](https://img.shields.io/badge/Spring%20Boot-2.7%2B-brightgreen?logo=spring)](https://spring.io/projects/spring-boot)
+[![Elasticsearch](https://img.shields.io/badge/Elasticsearch-8.x-blue?logo=elasticsearch)](https://www.elastic.co/elasticsearch/)
+
+[![Maven](https://img.shields.io/badge/Maven-3.8%2B-blue?logo=apache-maven)](https://maven.apache.org/)
+[![Docker](https://img.shields.io/badge/Docker-Ready-blue?logo=docker)](https://www.docker.com/)
+[![Stars](https://img.shields.io/github/stars/Demigod21/italian-cities-elasticsearch?style=social)](https://github.com/Demigod21/italian-cities-elasticsearch/stargazers)
+
 ## Features:
 
 ### 1. **Spring Boot Version**:
